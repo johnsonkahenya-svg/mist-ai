@@ -1,6 +1,5 @@
 # 🔒 WhatsApp session files
 session/
-*.json
 *.lock
 
 # Node modules
@@ -11,3 +10,6 @@ node_modules/
 
 # Environment variables
 .env
+
+# optional (only if unataka kabisa)
+# *.json (USIWEKE unless unajua unafanya nini)
