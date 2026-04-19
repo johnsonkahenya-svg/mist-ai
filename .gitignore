@@ -1,3 +1,13 @@
+# 🔒 WhatsApp session files
 session/
 *.json
+*.lock
+
+# Node modules
 node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
